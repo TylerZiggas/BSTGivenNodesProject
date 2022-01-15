@@ -1,0 +1,13 @@
+Preorder Traversal of This Tree: 
+---------------------------------
+t: tyler 
+  p: project 
+    0: 0 
+      d: did 
+        a: among anytthing 
+        h: he 
+    s: sus 
+  z: ziggas 
+    u: us use 
+End of Preorder Traversal
+
